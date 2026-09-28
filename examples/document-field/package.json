@@ -14,7 +14,7 @@
     "@keystone-6/document-renderer": "^1.1.1",
     "@keystone-6/fields-document": "^7.0.0",
     "@preconstruct/next": "^4.0.0",
-    "next": "^13.0.3",
+    "next": "^15.5.24",
     "react": "^18.2.0"
   },
   "devDependencies": {
